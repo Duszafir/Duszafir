@@ -6,11 +6,6 @@
 
 ## 🌟 Lenguajes  
 <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ee02fdf7-460f-42b2-b081-05845b307a9e.png" alt="Lenguaje 1" width="50" height="50">
-  <img src="https://github.com/user-attachments/assets/945331de-d293-461f-9fc8-af035103191a.png" alt="Lenguaje 2" width="50" height="50">
-  <img src="https://github.com/user-attachments/assets/a51950ef-7dac-4ec7-be30-38a6a5699c30.png" alt="Lenguaje 3" width="50" height="50">
-  <img src="https://github.com/user-attachments/assets/28a13a1f-18f9-47b0-9392-fc3322069887.png" alt="Lenguaje 4" width="50" height="50">
-</p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 ---
